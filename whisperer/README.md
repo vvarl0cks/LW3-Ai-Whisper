@@ -1,8 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Transcription with Whisper   
+In this lesson, we’re gonna build out a super simple bot that gets transcriptions from audio files. We’ll be using Whisper by OpenAI for this purpose.   
 
-## Getting Started
+## Getting Started   
 
-First, run the development server:
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). First, run the development server:
 
 ```bash
 npm run dev
